@@ -1,6 +1,6 @@
 # Show git branch in your Ubuntu bash shell prompt by editing the PS1
 
-What is PS1, you may ask? PS1 stands for "Prompt String 1". It's an environment variable that defines the primary prompt string in your shell. This is the prompt you see each time you're ready to type a command. It's a crucial part of customizing your shell prompt in Ubuntu (and other Unix-like systems).
+**What is PS1, you may ask?** It's certainly not PlayStation 1, if that's what you thought! 😂 PS1 stands for "Prompt String 1". It's an environment variable that defines the primary prompt string in your shell. This is the prompt you see each time you're ready to type a command. It's a crucial part of customizing your shell prompt in Ubuntu (and other Unix-like systems).
 
 A default PS1 looks something like this:
 ```
