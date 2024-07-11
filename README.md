@@ -13,13 +13,13 @@ Where:
 - $ is a $ for regular users, # for root.
 
 ### What to do...
-Now we understand what we're working on, see the file `new.bashrc` for the code.
+Now we understand what we're working on, see the file `new_bashrc.sh` for the code.
 
 You are to paste the code in your user home directory `~/.bashrc` file. But we will not only paste the code, we'll perform a few tweaks as well.
 
-- Glance through your `~/.bashrc` file and within it find the portion of the code file (`new.bashrc`) that reads "THE 6 LINES BELOW..."
+- Glance through your `~/.bashrc` file and within it find the portion of the code file (`new_bashrc.sh`) that reads "THE 6 LINES BELOW..."
 - Once you've found it in your user home directory `~/.bashrc` file then comment it out.
-- Paste the uncommented part of the code in `new.bashrc` into your `~/.bashrc` file.
+- Paste the uncommented part of the code in `new_bashrc.sh` into your `~/.bashrc` file.
 - source your `~/.bashrc` file to apply the changes in the shell. Use command:
 ```bash
 source ~/.bashrc
